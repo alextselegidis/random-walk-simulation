@@ -4,12 +4,13 @@
             <img src="https://raw.githubusercontent.com/alextselegidis/random-walk-simulation/master/random-walk-simulation.png" alt="Random Walk Simulation" width="128">
         </a>
         <br>
+        <br>
         Random Walk Simulation (Solar Photon)
     <br>
 </h1>
 
 <h4 align="center">
-    This is a personal experiment for rendering 3D shapes on browser by using 
+    This is a personal experiment for rendering 3D shapes in browser by using 
     <a href="https://threejs.org">three.js</a>
 </h4>
 
@@ -43,7 +44,7 @@ line:
 $ git clone https://github.com/alextselegidis/random-walk-simulation.git
 ```
 
-Open `index.html` on your browser. 
+Open `index.html` in your browser. 
 
 ## License 
 
