@@ -13,6 +13,10 @@
     <a href="https://threejs.org">three.js</a>
 </h4>
 
+<h4 align="center">
+    <a href="https://alextselegidis.com/try/random-walk-simulation">alextselegidis.com/try/random-walk-simulation</a>
+</h4>
+
 <p align="center">
   <a href="#about">About</a> •
   <a href="#setup">Setup</a> •
@@ -31,8 +35,8 @@ process in order to experience this phenomenon.
 
 ## Setup
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) 
-(which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command 
+line:
 
 ```bash
 # Clone this repository
@@ -50,7 +54,3 @@ Code Licensed Under [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) | C
 > Website [alextselegidis.com](https://alextselegidis.com) &nbsp;&middot;&nbsp;
 > GitHub [@alextselegidis](https://github.com/alextselegidis) &nbsp;&middot;&nbsp;
 > Twitter [@alextselegidis](https://twitter.com/AlexTselegidis)
-
---- 
-
-<small>The README sun icon was made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a></small>
